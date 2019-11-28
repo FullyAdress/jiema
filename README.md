@@ -19,7 +19,7 @@
 
 # 国外手机号、短信验证码平台
 - http://hs3x.com/    Receive SMS Online For Free - Free Virtual Numbers，-美国,英国,奥地利,瑞典,比利时
-- http://receivefreesms.com/    Receive FREE SMS online，美国,英国,挪威,瑞典,荷兰,澳大利亚,匈牙利,立陶宛,香港等
+- http://receivefreesms.com/    Receive FREE SMS online，美国,英国,挪威,瑞典,荷兰,澳大利亚,匈牙利,立陶宛,香港等(提供购买私人号码服务)
 - http://receivefreesms.net/　　Receive-SMS-Now - 美国,加拿大,西班牙
 - http://receiveonlinesms.biz/　　Receive Online SMS - 美国,瑞典,挪威,西班牙,英国
 - http://receiveonlinesms.com/　Receive SMS Online - 国外免费临时手机号
@@ -36,6 +36,10 @@ http://receivesmsverification.com/
 http://sms.sellaite.com/
 
 　　SELLAITE - 爱沙尼亚
+  
+https://sms-empfangen.com/
+
+   SMS online empfangen（德国站）- 德国、奥地利、瑞士
 
 http://www.freesmsverifications.com/
 
@@ -59,9 +63,7 @@ https://ch.freephonenum.com/
 
 https://receive-a-sms.com/
 
-　　Receive a SMS Online
-
-　　美国,澳大利亚,挪威,奥地利,巴西,香港,南非,波兰,英国,加拿大
+　　Receive a SMS Online - 美国,澳大利亚,挪威,奥地利,巴西,香港,南非,波兰,英国,加拿大
 
 https://receive-sms.com/
 
@@ -102,6 +104,10 @@ https://www.receivesms.co/
 https://www.receivesms.net/
 
 　　Receive SMS Online - 国外免费临时手机号
+  
+http://receive-sms-now.com/
+
+   Receive SMS Online for FREE and with NO Registration - 俄罗斯、英国
 
 https://www.receive-sms-online.info/
 
