@@ -1,4 +1,4 @@
-# FreeConnect
+# 免费的接码平台
 - http://bccto.me    一次性邮箱
 - https://www.guerrillamail.com    一次性邮箱
 - http://24mail.chacuo.net/    一次性邮箱
